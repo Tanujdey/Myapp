@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Myapp</title>
+    //<title>Myapp</title>
   </head>
   <body>
     <h1>This is My First App !!</h1>
